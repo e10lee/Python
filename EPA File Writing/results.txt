@@ -1,0 +1,6 @@
+EPA City MPG Calculator (2008)
+---------------
+Maximum Mileage (city): 48
+     
+Minimum Mileage (city): 8
+     
